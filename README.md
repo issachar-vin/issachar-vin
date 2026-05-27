@@ -19,17 +19,6 @@ Full-stack developer based in Miami, FL. I build web apps and tools with Python 
 
 ---
 
-### Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=issachar-vin&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=issachar-vin&layout=compact&theme=dark&hide_border=true&langs_count=6" />
-</p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=issachar-vin&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
----
-
 ### Projects
 
 | Project | Description | Stack |
