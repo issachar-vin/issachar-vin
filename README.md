@@ -1,14 +1,41 @@
-![typing intro](https://coolreadme.xyz/api/typing-card?user=issachar-vin&lines=Issachar%20Vinajeras%7CPython%20Developer%7CBased%20in%20Miami%2C%20FL%7COpen%20To%20Work&theme=dark)
+## Issachar Vinajeras
 
-![issachar-vin cinematic](https://coolreadme.xyz/api/cinematic?user=issachar-vin&status=SHIPPING%20CODE&focus=My%20GitHub%20profile%20README)
+Full-stack developer based in Miami, FL. I build web apps and tools with Python and TypeScript.
 
-### Featured projects
+**Open to work** — [issacharv@gmail.com](mailto:issacharv@gmail.com)
 
-![Featured projects](https://coolreadme.xyz/api/projects-gallery?user=issachar-vin&projects=issachar-vin%7CMy%2BGitHub%2Bprofile%2BREADME%7C%7C0%7Chttps%3A%2F%2Fgithub.com%2Fissachar-vin%2Fissachar-vin%3B%3Bstream-manager%7CGo%2Blive%2Bon%2BYouTube%2Band%2BFacebook%2Bsimultaneously%2Bfrom%2Ba%2Bsingle%2Bclick%7CPython%7C0%7Chttps%3A%2F%2Fgithub.com%2Fissachar-vin%2Fstream-manager%3B%3BDragonTravelerUI%7C%7CTypeScript%7C0%7Chttps%3A%2F%2Fgithub.com%2Fissachar-vin%2FDragonTravelerUI%3B%3BChessLearnerUI%7CChess%2BLearner%2B%E2%80%94%2BReact%2Bchess%2Bboard%2BUI%2Bwith%2Bopenings%2C%2Bdrag%2Fdrop%2C%2Band%2Bmove%2Bhighlights%7CTypeScript%7C0%7Chttps%3A%2F%2Fgithub.com%2Fissachar-vin%2FChessLearnerUI%3B%3BChessLearnerAPI%7CChess%2BLearner%2B%E2%80%94%2BFastAPI%2Bbackend%2Bwith%2BMongoDB%2C%2Bchess%2Bengine%2C%2Band%2Bopening%2Bbook%7CPython%7C0%7Chttps%3A%2F%2Fgithub.com%2Fissachar-vin%2FChessLearnerAPI%3B%3BDragonTravelerAPI%7C%7CPython%7C0%7Chttps%3A%2F%2Fgithub.com%2Fissachar-vin%2FDragonTravelerAPI&theme=dark)
+---
+
+### Tech
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
 
 ### Stats
 
-![cat streak](https://coolreadme.xyz/api/cat-card?user=issachar-vin)
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=issachar-vin&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=issachar-vin&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+</p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=issachar-vin&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<sub>Built with [coolreadme.xyz](https://coolreadme.xyz/u/issachar-vin) — one-click GitHub README cards.</sub>
+---
+
+### Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [stream-manager](https://github.com/issachar-vin/stream-manager) | Go live on YouTube and Facebook simultaneously from a single click | Python |
+| [ChessLearnerUI](https://github.com/issachar-vin/ChessLearnerUI) | Chess board UI with openings, drag/drop, and move highlights | TypeScript / React |
+| [ChessLearnerAPI](https://github.com/issachar-vin/ChessLearnerAPI) | FastAPI backend with MongoDB, chess engine, and opening book | Python / FastAPI |
+| [DragonTravelerUI](https://github.com/issachar-vin/DragonTravelerUI) | Dragon Travelers frontend | TypeScript / React |
+| [DragonTravelerAPI](https://github.com/issachar-vin/DragonTravelerAPI) | Dragon Travelers backend | Python |
